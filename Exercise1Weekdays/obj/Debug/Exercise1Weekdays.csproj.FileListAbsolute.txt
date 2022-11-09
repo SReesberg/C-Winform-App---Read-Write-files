@@ -1,0 +1,10 @@
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\bin\Debug\Exercise1Weekdays.exe.config
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\bin\Debug\Exercise1Weekdays.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\bin\Debug\Exercise1Weekdays.pdb
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\obj\Debug\Exercise1Weekdays.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\obj\Debug\Exercise1Weekdays.MainForm.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\obj\Debug\Exercise1Weekdays.Properties.Resources.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\obj\Debug\Exercise1Weekdays.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\obj\Debug\Exercise1Weekdays.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\obj\Debug\Exercise1Weekdays.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise1Weekdays\obj\Debug\Exercise1Weekdays.pdb
